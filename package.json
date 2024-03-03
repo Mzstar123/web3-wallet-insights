@@ -1,0 +1,33 @@
+{
+  "name": "web3-wallet-insights",
+  "version": "0.1.0",
+  "description": "A Node.js module to provide insights into cryptocurrency wallets.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mzstar123/web3-wallet-insights.git"
+  },
+  "keywords": [
+    "web3",
+    "crypto",
+    "wallet",
+    "insights",
+    "ethereum"
+  ],
+  "author": "Mzstar123",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mzstar123/web3-wallet-insights/issues"
+  },
+  "homepage": "https://github.com/Mzstar123/web3-wallet-insights#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "big.js": "^6.1.1",
+    "dotenv": "^8.2.0",
+    "etherscan-api": "^8.1.1",
+    "web3": "^1.3.6"
+  }
+}
